@@ -4,67 +4,41 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Welcome!](#welcome!)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
+## Welcome!
 
 Hello there! This is my solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Feel free to give any suggestion or pointing out anything i miss.
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+## Screenshot
 
-![]](./web-preview.jpg)
+![](./web-preview.jpg)
 
-### Links
+## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/GenesisGran/nft-preview-card.git)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-using-html-css-flexbox-media-queries-yMAwd7J-W]
+- Live Site URL: [https://genesisgran.github.io/nft-preview-card/]
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Media Queries
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
 ## Author
 
 - Frontend Mentor - [@genesisgran](https://www.frontendmentor.io/profile/GenesisGran)
-- Discord - [Genesis Gran#9500]
+- Discord - Genesis Gran#9500
