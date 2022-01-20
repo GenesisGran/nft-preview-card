@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@genesisgran](https://www.frontendmentor.io/profile/GenesisGran)
+- Frontend Mentor - [@GenesisGran](https://www.frontendmentor.io/profile/GenesisGran)
 - Discord - Genesis Gran#9500
